@@ -4,6 +4,6 @@ Common Lisp の format で漢数字を出す / Print Japanese numerals from `for
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/y2q-actionman/jp-numeral.git |
-| commit  |  60cce7a
+| commit  | 60cce7a                                             |
 | systems | jp-numeral                                          |
 |---------+-----------------------------------------------------|
